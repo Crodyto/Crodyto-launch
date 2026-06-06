@@ -1,0 +1,6 @@
+{
+  "name": "CRODYTO",
+  "description": "CRODYTO is a luxury, fully featured e-commerce Android application. It provides client-side product details, categories, product filters, cart management, active order tracking, simulation of secure checkouts, and a comprehensive Admin controller with dashboards, user management, and product CRUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
